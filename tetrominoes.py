@@ -2,9 +2,6 @@
 # tetrominoes.py
 
 # Name : June Sun
-# Collaborators : Elisabeth, Cara, Taylor, Kaija, Hannah D
-
-# Tetris yo
 
 from graphics import *
 from time import *
